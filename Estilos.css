@@ -1,0 +1,28 @@
+body {
+     background-color:blue;
+}
+h1 {
+    tex-align: justify;
+    color: red;
+    font-family: calibri;
+    font-size: 300%;
+}
+p {
+   color: white;
+   font-family: Comic Sans MS;
+   text-align: justify;
+   font-size: 75%;
+
+}
+Text {
+      text-align: justify;
+      color:orange;
+      font-family:arial;
+      font-size: 200%;
+}
+a { 
+   color:bron;
+   font-family: Comic Sans MS;
+   text-align: justify;
+   font-size: 100%;
+}
